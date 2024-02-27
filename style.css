@@ -84,8 +84,25 @@ button{
     margin: 25px;
 }
 
+.random-text{
+    text-align: center;
+}
+
+.image-container{
+    display: flex;
+    flex-direction: row;
+}
+
+.image{
+    width: 100px;
+    height: 100px;
+    border: 2.5px solid #3882F6;
+    border-radius: 10px;
+}
+
 .quote{
     background-color: lightgray;
+    text-align: center;
 }
 
 .footer{
