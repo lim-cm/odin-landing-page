@@ -77,10 +77,15 @@ button{
 .placeholder{
     flex: 1 1 0;
     width: 0;
-    background-color: lightgray;
+    background-color: gray;
+    color: white;
     text-align: center;
     padding: 100px 0;
     margin: 25px;
+}
+
+.quote{
+    background-color: lightgray;
 }
 
 .footer{
